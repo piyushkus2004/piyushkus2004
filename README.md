@@ -1,24 +1,111 @@
-<h1 align="center">Hi 👋, I'm Piyush Kushwaha</h1>
-<h3 align="center">Currently Studying Computer Science </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkus2004&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkus2004" /> </p>
+# Hi, I'm Piyush Kushwaha 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkus2004" alt="piyushkus2004" /></a> </p>
+### Data Analytics & Data Science Student
 
-- 🌱 I’m currently learning **AWS,DOCKER,KUBERNETES,PYTHON**
+<br/>
 
-- 📫 How to reach me **piyushkushwaha823@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=64B5F6&center=true&vCenter=true&width=580&lines=Transforming+raw+data+into+actionable+insights;Exploring+Machine+Learning+%26+Predictive+Modeling;Power+BI+%C2%B7+Tableau+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Excel;Aspiring+Data+Scientist+%26+Analytics+Professional" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/___piyushh.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___piyushh.___" height="30" width="40" /></a>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/piyush-kushwaha-67551a282">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:piyush.kus2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=piyushkus2004&color=64B5F6&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<br/>
+
+---
+
+## 👤 About Me
+
+I'm **Piyush Kushwaha**, a driven **Data Analytics & Data Science student** passionate about using data to uncover insights and build intelligent solutions. I work across the full data spectrum — from cleaning and querying datasets to building dashboards and training ML models.
+
+<table>
+<tr><td>🎯 <b>Focus Areas</b></td><td>Data Analytics · Data Science · Machine Learning · AI</td></tr>
+<tr><td>🔭 <b>Currently Working On</b></td><td>End-to-end analytics projects & predictive ML models</td></tr>
+<tr><td>📚 <b>Currently Learning</b></td><td>Advanced ML Algorithms · Statistical Modeling · Deep Learning</td></tr>
+<tr><td>💬 <b>Ask Me About</b></td><td>Python, SQL, Power BI, Tableau, Data Visualization</td></tr>
+<tr><td>📩 <b>Contact</b></td><td>piyush.kus2004@gmail.com</td></tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+#### 📊 Analytics & Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### 🐍 Programming & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-![giphy](https://github.com/piyushkus2004/piyushkus2004/assets/143024159/c72202aa-d9a1-4a97-8fff-3e07ed9167b7)
+#### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
+#### 🗄️ Databases & Querying
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
+#### ⚙️ Development Environment
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
+---
+
+## 🔄 Data Workflow
+
+```
+  Collect        Clean          Explore         Model          Visualize       Deliver
+─────────────────────────────────────────────────────────────────────────────────────────
+  SQL · APIs  →  Python      →  EDA ·        →  Scikit-Learn →  Power BI    →  Reports
+  Excel          Pandas          Statistics      TensorFlow      Tableau         Insights
+                 NumPy                                           Matplotlib
+```
+
+---
+
+## 📌 What I Do
+
+| Area | Description |
+|------|-------------|
+| 📊 **Dashboards & Reporting** | Interactive Power BI & Tableau dashboards that turn data into decisions |
+| 🔍 **Exploratory Data Analysis** | Identifying patterns, trends, and outliers across complex datasets |
+| 🤖 **Machine Learning** | Building, training & evaluating regression, classification & clustering models |
+| 🗄️ **Data Management** | Writing optimized SQL queries, managing relational databases |
+| 📈 **Statistical Analysis** | Applying statistical methods to validate findings and test hypotheses |
+
+---
+
+<div align="center">
+
+*"Without data, you're just another person with an opinion."*
+<br/>
+— W. Edwards Deming
+
+</div>
